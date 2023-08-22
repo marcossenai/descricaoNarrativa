@@ -23,7 +23,7 @@ Pegue sua garrafa vazia e aproxime-a de uma torneira ou filtro. Abra a tampa, co
 Pegue um cadarço em cada mão. Cruze-os e puxe, formando um nó básico. Faça uma laçada com cada ponta, cruze as laçadas e puxe uma laçada por baixo da outra, apertando para formar um laço seguro.
 
 9 - Upload de Arquivo no GitHub via GitHub Desktop:
-Acesse o github Desktop, no canto superior direito aperte em "file" e em seguida em "add local repository", depois escolha o arquivo e confimr. após isso
+Acesse o Github Desktop, no canto superior direito aperte em "file" e em seguida em "add local repository", depois escolha o arquivo e confimr. após isso aperte em "Publish repository" ou "commit", e pronto, o aquivo estará no Github de navegador.
 
 10 - Enviar um Anexo no Classroom:
 Acesse o Google Classroom e selecione a turma e atividade desejadas. Clique em "Adicionar" ou no ícone de clipe, selecione o arquivo que deseja anexar. Uma vez que o arquivo estiver carregado, clique em "Enviar" para completar a tarefa.
